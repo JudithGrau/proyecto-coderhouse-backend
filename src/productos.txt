@@ -1,0 +1,16 @@
+[
+  {
+    "title": "remera1",
+    "price": "2250",
+    "thumbnail": "http://localhost:8080/uploads/hunter-x-hunter1-60855e3ce9f73c7c7116041870598444-100-0.jpg",
+    "timestamp": 1636854280279,
+    "id": 1
+  },
+  {
+    "title": "remera2",
+    "price": "3200",
+    "thumbnail": "http://localhost:8080/uploads/naruto-chibi1-0bdf76baecace16d8b16041870718714-100-0.jpg",
+    "timestamp": 1636856540133,
+    "id": 2
+  }
+]
