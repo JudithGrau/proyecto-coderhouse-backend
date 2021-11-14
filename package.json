@@ -4,7 +4,7 @@
   "description": "\"# proyecto-coderhouse-backend\"",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon ./src/index.js"
   },
   "repository": {
     "type": "git",
